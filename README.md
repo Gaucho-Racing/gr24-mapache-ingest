@@ -1,6 +1,7 @@
 # GR24 Mapache Ingest
 
-> This service originally lived in the main Mapache monorepo. It was split into this repository as an archival snapshot while Mapache undergoes a complete v4 rewrite.
+> [!NOTE]
+> This service originally lived in the main [Mapache repository](https://github.com/Gaucho-Racing/Mapache). It was split into this repository as an archival snapshot while Mapache undergoes a complete v4 rewrite.
 
 GR24 Mapache Ingest is the telemetry ingestion service used for Gaucho Racing's GR24 car. It is retained to preserve the vehicle's telemetry protocol, decoders, and storage model. It is not compatible with the current Mapache signal system.
 
